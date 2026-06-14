@@ -22,6 +22,7 @@ AIRTABLE_API_KEY = patXXXX...          (Airtable personal access token)
 ```
 The token needs `data.records:read` and `data.records:write` scopes on this base.
 
+
 ## Deploy (GitHub, like before)
 1. Push this folder to a GitHub repo.
 2. Netlify → Add new site → Import from GitHub → pick the repo.
